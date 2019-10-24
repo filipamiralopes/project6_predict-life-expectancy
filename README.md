@@ -10,7 +10,7 @@ For this project I will have a set of predictors (e.g. income, spending on healt
 ## Contents
 Inside the folder "predict-life-expectancy" you will find:
 - code 
-- data_sets (sorces: Kaggle/WHO and gapminder.org)
+- data_sets (sources: Kaggle/WHO and gapminder.org)
 - report.pdf
 - slides.pdf
 
